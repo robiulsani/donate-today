@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    display: flex;
+background-image: url(images/donation13.jpg);
+ background-repeat: no-repeat;
+ width: 2500px;
+ 
+
+ 
+}
+h1{
+    font-size: 30px;
+}
+.head{
+    color: azure;
+    padding: 50px;
+    text-align: center;
+
+}
+button{
+    padding: 15px;
+    background-color: #eb5252;
+    text-align: center;
+}
+button a{
+    text-decoration: none;
+    color: azure;
+}
+.donat{
+    height: 10px;
+    padding: 50px;
+    text-align: center;
+}
+.donate-taka{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+}
+.donate-taka div{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.donate-taka div:hover{
+    border: 1px solid;
+    color: #eb5252;
+}
+footer{
+    color: gray;
+}
+.alin{
+    padding-top: 400px;
+    text-align: center;
+    padding-bottom: 50px;
+    color: gray;
+}
+.plan{
+    display: flex;
+    flex-direction: row;
+    margin-right: 80px;
+    margin-left: 80px;
+    height: 300px;
+   
+}
+.card-pic{
+    width: 40px;
+}
+.card-box{
+    width: 30%;
+    background-color: rgb(225, 227, 242);
+    margin: 10px;
+    padding: 30px;
+    
+}
+
+.donation-area{
+      padding-top: 75px;
+ display: flex;
+height: 100%;
+margin: 5px;
+    
+}
+
+.half-width{
+     margin-left: 5%;
+     margin-right: 5%;
+    padding-left: 5%;
+    font-weight: 25px;
+    color: gray;
+    justify-content: center;
+}
+.text-color{
+    color: black;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.title{
+    padding-top: 20px;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+}
+.donation-container{
+    padding-top: 10px;
+    border: solid 2px yellow;
+    text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: greenyellow;
+}
+
+
+.update{
+    text-align: center;
+    color: gray;
+}
+input{
+    padding: 15px;
+    background-color: rgb(242, 273, 273);
+}
+.box{
+    padding: 50px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-bottom:50px ;
+    background-color: antiquewhite;
+    justify-content: center;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    background-color: rgba(124, 232, 214, 0.434);
+}
